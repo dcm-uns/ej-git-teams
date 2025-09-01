@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Parásitos",
+        "year": 2020,
+        "category": "Mejor Película",
+        "director": "Bong Joon-ho"
+    },
+    {
+        "name": "El Padrino",
+        "year": 1973,
+        "category": "Mejor Película",
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "name": "La La Land",
+        "year": 2017,
+        "category": "Mejor Director",
+        "director": "Damien Chazelle"
+    },
+    {
+        "name": "El discurso del rey",
+        "year": 2011,
+        "category": "Mejor Actor",
+        "director": "Tom Hooper"
+    },
+    {
+        "name": "El club de la pelea",
+        "year": 2000,
+        "category": "Mejor Edición de Sonido",
+        "director": "David Fincher"
+    }
+]
