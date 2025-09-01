@@ -28,5 +28,17 @@
         "year": 2000,
         "category": "Mejor Edición de Sonido",
         "director": "David Fincher"
+    },
+    {
+        "name": "Casino Royale",
+        "year": 2006,
+        "category": "Mejor Banda Sonora",
+        "director": "Martin Campbell"
+    },
+    {
+        "name": "Come and See",
+        "year": 1985,
+        "category": "Mejor Película de Drama",
+        "director": "Elem Klimov"
     }
 ]
