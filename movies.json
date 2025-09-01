@@ -28,5 +28,11 @@
         "year": 2000,
         "category": "Mejor Edición de Sonido",
         "director": "David Fincher"
+    },
+    {
+        "name": "Interestellar",
+        "year": 2015,
+        "category": "Mejor Efectos Especiales",
+        "director": "Christopher Nolan"
     }
 ]
