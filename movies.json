@@ -28,5 +28,11 @@
         "year": 2000,
         "category": "Mejor Edición de Sonido",
         "director": "David Fincher"
+    },
+    {
+        "name": "Toy Story",
+        "year": 1996,
+        "category": "Mejor Guión Original",
+        "director": "John Lasseter"
     }
 ]
