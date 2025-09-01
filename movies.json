@@ -28,5 +28,12 @@
         "year": 2000,
         "category": "Mejor Edición de Sonido",
         "director": "David Fincher"
-    }
+    },
+    {
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "category": "Mejor Película",
+    "director": "Quentin Tarantino"
+    } 
+
 ]
