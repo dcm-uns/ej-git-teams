@@ -28,5 +28,12 @@
         "year": 2000,
         "category": "Mejor Edición de Sonido",
         "director": "David Fincher"
+    },
+    {
+        "name": "Gladiador",
+        "year": 2000,
+        "category":"Mejor Banda Sonora",
+        "director": "Ridley Scott"
     }
+
 ]
